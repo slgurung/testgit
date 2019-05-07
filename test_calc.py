@@ -8,3 +8,6 @@ class TestCalc:
 
     def test_multi(self):
         assert 6 == calculator.multiply(2, 3)
+
+    def test_sub(self):
+        assert 4 == calculator.sub(6, 2)
