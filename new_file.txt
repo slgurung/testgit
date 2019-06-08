@@ -1,6 +1,1 @@
 This is new file
-This is new line.
-I just make some more changes.
-
-This is even more changes.
-Wow!
