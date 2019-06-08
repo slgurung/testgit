@@ -4,3 +4,5 @@ I just make some more changes.
 
 This is even more changes.
 Wow!
+
+now new line added.
