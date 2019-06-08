@@ -1,3 +1,5 @@
 This is new file
 
 I deleted all lines except 1st.
+
+Then I added more lines.
